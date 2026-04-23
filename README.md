@@ -61,72 +61,72 @@ Explore the Alumni Hub interface with screenshots from different sections:
 ### 1. Events Listing
 Browse and search upcoming alumni events including workshops, reunions, and webinars with filtering capabilities.
 
-![Events Listing](./docs/screenshots/01-events-listing.png)
+![Events Listing](./docs/screenshots/1.png)
 
 ### 2. Event Details
 Comprehensive event information including date, time, location, speakers, agenda, and pricing details.
 
-![Event Details](./docs/screenshots/02-event-details.png)
+![Event Details](./docs/screenshots/2.png)
 
 ### 3. Event Confirmation
 Registration confirmation page displaying ticket information and QR code for event check-in.
 
-![Event Confirmation](./docs/screenshots/03-event-confirmation.png)
+![Event Confirmation](./docs/screenshots/3.png)
 
 ### 4. User Profile
 Personal profile management showing alumni information, current position, location, and earned badges.
 
-![User Profile](./docs/screenshots/04-profile.png)
+![User Profile](./docs/screenshots/4.png)
 
 ### 5. Admin Dashboard
 Staff command center providing system analytics, active user counts, event revenue, and admin actions.
 
-![Admin Dashboard](./docs/screenshots/05-admin-dashboard.png)
+![Admin Dashboard](./docs/screenshots/5.png)
 
 ### 6. Verification Queue
 Alumni verification management interface for admins to review and approve pending alumni registrations.
 
-![Verification Queue](./docs/screenshots/06-verification-queue.png)
+![Verification Queue](./docs/screenshots/6.png)
 
 ### 7. Create Event - Details
 Multi-step event creation form allowing admins to input event title, date, time, category, and description.
 
-![Create Event Details](./docs/screenshots/07-create-event-details.png)
+![Create Event Details](./docs/screenshots/7.png)
 
 ### 8. Create Event - Pricing
 Event pricing configuration step for setting ticket prices and managing ticket types.
 
-![Create Event Pricing](./docs/screenshots/08-create-event-pricing.png)
+![Create Event Pricing](./docs/screenshots/8.png)
 
 ### 9. Create Event - Review
 Final review step summarizing all event details before creation and publishing.
 
-![Create Event Review](./docs/screenshots/09-create-event-review.png)
+![Create Event Review](./docs/screenshots/9.png)
 
 ### 10. Event Analytics
 Analytics and reporting dashboard showing event performance metrics including attendance rates and revenue.
 
-![Event Analytics](./docs/screenshots/10-event-analytics.png)
+![Event Analytics](./docs/screenshots/10.png)
 
 ### 11. Invitation Builder
 Tool for composing and sending event invitations to alumni groups with customizable messaging.
 
-![Invitation Builder](./docs/screenshots/11-invitation-builder.png)
+![Invitation Builder](./docs/screenshots/11.png)
 
 ### 12. Dashboard
 Main user dashboard with welcome greeting, quick action cards, and announcements feed.
 
-![Dashboard](./docs/screenshots/12-dashboard.png)
+![Dashboard](./docs/screenshots/12.png)
 
 ### 13. Notification Settings
 User notification preferences interface for configuring channels and notification types.
 
-![Notification Settings](./docs/screenshots/13-notification-settings.png)
+![Notification Settings](./docs/screenshots/13.png)
 
 ### 14. Alumni Directory
 Searchable directory of alumni with filtering by course, batch, and industry.
 
-![Alumni Directory](./docs/screenshots/14-alumni-directory.png)
+![Alumni Directory](./docs/screenshots/14.png)
 
 ### 15. Event Management - Details Configuration
 Interface for administrators to define core event information, including scheduling, categorical tagging, physical location, and capacity limits.
@@ -134,9 +134,7 @@ Interface for administrators to define core event information, including schedul
 ![Event Management Details](./docs/screenshots/15.png)
 
 ### 16. Event Management - Pricing Setup
-Pricing configuration tool allowing event organizers to establish ticket costs, manage ticket types, and preview maximum potential revenue.
-
-![Event Management Pricing](./docs/screenshots/16.png)
+Pricing configuration tool allowing event organizers to establish
 
 ### 17. Event Management - Final Review
 Summary screen providing a complete overview of all configured event details and pricing parameters before official publication.
