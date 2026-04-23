@@ -128,6 +128,41 @@ Searchable directory of alumni with filtering by course, batch, and industry.
 
 ![Alumni Directory](./docs/screenshots/14-alumni-directory.png)
 
+### 15. Event Management - Details Configuration
+Interface for administrators to define core event information, including scheduling, categorical tagging, physical location, and capacity limits.
+
+![Event Management Details](./docs/screenshots/15.png)
+
+### 16. Event Management - Pricing Setup
+Pricing configuration tool allowing event organizers to establish ticket costs, manage ticket types, and preview maximum potential revenue.
+
+![Event Management Pricing](./docs/screenshots/16.png)
+
+### 17. Event Management - Final Review
+Summary screen providing a complete overview of all configured event details and pricing parameters before official publication.
+
+![Event Management Review](./docs/screenshots/17.png)
+
+### 18. Comprehensive Event Analytics
+Detailed performance dashboard displaying crucial metrics such as total attendees, check-in rates, generated revenue, average ratings, and historical attendance trends.
+
+![Comprehensive Event Analytics](./docs/screenshots/18.png)
+
+### 19. Invitation Builder - Recipient Selection
+Targeted mailing tool enabling organizers to effortlessly select specific alumni segments (e.g., graduating batches or tech leaders) or manually add guests.
+
+![Invitation Builder Recipients](./docs/screenshots/19.png)
+
+### 20. Invitation Builder - Message Composition
+Email drafting interface for crafting customized event invitations, featuring subject line creation, message body formatting, and automatic registration link embedding.
+
+![Invitation Builder Message](./docs/screenshots/20.png)
+
+### 21. Invitation Builder - Review & Dispatch
+Final verification screen for the invitation campaign, summarizing the recipient count and message details prior to dispatching emails to the alumni network.
+
+![Invitation Builder Review](./docs/screenshots/21.png)
+
 ## Installation
 
 ### Prerequisites
